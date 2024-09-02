@@ -1,0 +1,50 @@
+Sitemap: https://www.halkaarzhisseler.com/sitemap-0.xml
+
+User-agent: *
+Allow: /
+
+User-agent: googlebot
+User-agent: Googlebot-Video
+User-agent: Applebot
+User-agent: bingbot
+User-agent: Baiduspider
+User-agent: Baiduspider-mobile
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+User-agent: NaverBot
+User-agent: Yeti
+User-agent: Yandex
+User-agent: YandexBot
+User-agent: YandexMobileBot
+User-agent: YandexVideo
+User-agent: YandexWebmaster
+User-agent: YandexSitelinks
+User-agent: SeznamBot
+Allow: /
+
+User-agent: *
+Allow: /ads/preferences/
+Allow: /dtt/k
+Allow: /gpt/
+Allow: /pagead/show_ads.js
+Allow: /pagead/js/adsbygoogle.js
+Allow: /pagead/*/show_ads_impl.js
+Allow: /static/glade.js
+Allow: /static/glade/
+Allow: /tag/js/
+Allow: /ads/preferences/
+Allow: /dtt/k
+Allow: /gpt/
+Allow: /pagead/show_ads.js
+Allow: /pagead/js/adsbygoogle.js
+Allow: /pagead/*/show_ads_impl.js
+Allow: /static/glade.js
+Allow: /static/glade/
+Allow: /tag/js/
+Allow: /*.css
+Allow: /*.js
+
+User-agent: AdsBot-Google
+User-agent: Twitterbot
+User-agent: Adidxbot
+Allow: /

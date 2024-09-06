@@ -1,4 +1,4 @@
-Sitemap: https://www.halkaarzhisseler.com/sitemap-0.xml
+Sitemap: https://halkaarz.app/sitemap-0.xml
 
 User-agent: *
 Allow: /

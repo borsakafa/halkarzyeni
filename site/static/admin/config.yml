@@ -10,7 +10,7 @@
 
   backend: {
       name: 'github', # Name of your git hosting service (ie. github, gitlab)
-      repo: 'borsakafa/halkaarzyeni',
+      repo: 'borsakafa/halkarzyeni',
       branch: 'main'
     },
 

@@ -1,7 +1,4 @@
-[build]
-  base = "site"
-  command = "gatsby build"
-  publish = "site/public"  # build çıktısının site/public içinde olduğunu belirtir
+
 
 
 [build.environment]

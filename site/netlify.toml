@@ -1,6 +1,6 @@
 [build]
   base = "site"
-  command = "cd site && gatsby clean && npm run build"
+  command = "cd site && npm cache clean --force && rm -rf node_modules && npm install && npm run build"
   publish = "site/public"  # build çıktısının site/public içinde olduğunu belirtir
 
 

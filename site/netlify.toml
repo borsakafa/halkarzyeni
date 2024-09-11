@@ -1,0 +1,9 @@
+[build]
+  base = "site"  #
+  command = "gatsby build"
+  publish = "site/public"  # build çıktısının site/public içinde olduğunu belirtir
+
+
+[build.environment]
+  GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES = "true"
+  GATSBY_INCREMENTAL_BUILDS = "true"

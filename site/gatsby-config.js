@@ -56,13 +56,6 @@ module.exports = {
         }
       }
     },
-    {
-      resolve: 'gatsby-plugin-netlify-cache',
-      options: {
-        cachePublic: true, // Cache the public directory
-        cacheNodeModules: true // Cache the node_modules directory
-      }
-    },
     'gatsby-plugin-netlify'
 
   ],

@@ -17,9 +17,5 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@loadable/component": "^5.15.3",
-    "gatsby": "^5.6.0",
-    "gatsby-plugin-netlify": "^5.1.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"  }
+    "@loadable/component": "^5.15.3"
 }

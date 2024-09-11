@@ -1,4 +1,7 @@
-
+[build]
+  base = "site"
+  command = "cd site && gatsby clean && npm run build"
+  publish = "site/public"  # build çıktısının site/public içinde olduğunu belirtir
 
 
 [build.environment]

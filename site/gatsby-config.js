@@ -29,12 +29,13 @@ module.exports = {
         icon: 'content/assets/favicon.png'
       }
     },
+
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
         trackingIds: [
-          "G-PG63G2YB5N", // Google Analytics / GA
+          "G-RH6PQ5VBSL", // Google Analytics / GA
         ],
       },
     },
@@ -55,7 +56,9 @@ module.exports = {
           local: true,
         }
       }
-    }
+    },
+    'gatsby-plugin-netlify-cache'
+
   ],
   siteMetadata: {
     //General Site Metadata

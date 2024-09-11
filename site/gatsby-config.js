@@ -57,7 +57,8 @@ module.exports = {
         }
       }
     },
-    'gatsby-plugin-netlify-cache'
+    'gatsby-plugin-netlify-cache',
+    'gatsby-plugin-netlify'
 
   ],
   siteMetadata: {

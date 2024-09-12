@@ -62,9 +62,9 @@ module.exports = {
     ],
     siteMetadata: {
         //General Site Metadata
-        title: '2023 Halka Arz Edilecek Hisseler',
+        title: '2024 Halka Arz Edilecek Hisseler',
         name: 'Halka Arz Takvimi',
-        description: 'Halka arz olan şirketler ve halka arz onayı bekleyen şirketler yeni halka arzlar. 2023 halka arz takvimi ve sermaye artırımları hakkında tüm bilgiler.',
+        description: 'Halka arz olan şirketler ve halka arz onayı bekleyen şirketler yeni halka arzlar. 2024 halka arz takvimi ve sermaye artırımları hakkında tüm bilgiler.',
         address: '',
         email: 'info@halkaarzhisseler.com',
         phone: '',

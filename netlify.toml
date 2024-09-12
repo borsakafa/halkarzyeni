@@ -1,8 +1,5 @@
 [build]
-   command = "rm -rf .cache && npm run build"
+   command =  "npm run build"
    publish = "site/public"
 
 
-[build.environment]
-  GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES = "true"
-  GATSBY_INCREMENTAL_BUILDS = "true"
